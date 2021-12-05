@@ -1,0 +1,3 @@
+[submodule "src/AutoPhrase"]
+	path = src/AutoPhrase
+	url = https://github.com/shangjingbo1226/AutoPhrase.git
