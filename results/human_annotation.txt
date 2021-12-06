@@ -1,0 +1,100 @@
+possible interpretations, 0
+hbt, 1
+detection and classification, 1
+a large variety of, 1
+scalability issue of, 0
+evaluated on, 0
+keyword search in xml documents, 1
+dynamic replication, 1
+solved using, 0
+designed and implemented, 1
+optimized for real time, 1
+unattended wireless sensor networks, 1
+of over and under, 0
+the mean absolute error, 1
+generic methodology for, 0
+conceives, 0
+an snmp based, 1
+telephone network, 1
+an increasing trend in, 1
+therefore imperative to, 0
+conditions for exact, 0
+barycentric coordinates, 1
+visual tracking via, 0
+often limits, 0
+an extremely challenging task, 1
+specialized program, 1
+attainable performance, 1
+increased packet, 0
+small quantity, 1
+the most highly, 1
+compliant agent, 1
+including gene, 0
+aware mac protocol, 1
+multiuser environment, 1
+exactly same, 1
+repeated several times, 1
+researchers and practitioners working, 0
+statistically correlated, 1
+autonomie, 1
+study to test, 0
+unified subspace, 1
+designed to overcome, 0
+cluster based web server, 1
+prepress, 0
+improved particle filter, 0
+autonomous distributed, 0
+video footage, 1
+cancellation technique, 1
+py, 0
+embedded processor, 1
+good approximation, 0
+detailed simulations, 0
+error control scheme for, 0
+rates as low as, 0
+spectral pattern, 1
+learnable with, 0
+based policy management, 1
+predictive controllers, 1
+horizon line, 1
+graph in linear time, 0
+time without compromising, 0
+widely used in pattern recognition, 0
+no modification to, 0
+ospa, 1
+a way to define, 0
+interference mitigation via, 0
+a completely new, 0
+convergence with respect to, 0
+the dominance based, 0
+the nonlinearity of, 0
+models with hidden variables, 0
+worthwhile to, 1
+fault tolerant mutual exclusion, 1
+a model checking tool, 1
+consecutive versions, 1
+algorithms in solving, 0
+reliable numerical, 0
+methods in terms of accuracy and, 0
+inverse mapping, 1
+an evolution from, 0
+class constructs, 0
+master slave configuration, 1
+mined from, 0
+candidate generation, 1
+interactively manipulate, 0
+the materialization of, 0
+discrete surface, 1
+early verification of, 0
+quality loss, 1
+uniformly scaled, 1
+theoretical informatics, 1
+discriminant analysis for, 0
+vorolign, 1
+human designer, 1
+accessed as, 0
+an intelligent way, 1
+achieve improvements, 1
+music production, 1
+the testing and test control notation, 1
+structured content, 1
