@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "xueweiyan/autophrase",
+    "build-script": "python run.py test"
+}
