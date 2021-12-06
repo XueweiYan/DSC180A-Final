@@ -1,22 +1,22 @@
 possible interpretations, 0
 hbt, 1
-detection and classification, 1
+detection and classification, 0
 a large variety of, 1
 scalability issue of, 0
 evaluated on, 0
-keyword search in xml documents, 1
+keyword search in xml documents, 0
 dynamic replication, 1
 solved using, 0
-designed and implemented, 1
-optimized for real time, 1
+designed and implemented, 0
+optimized for real time, 0
 unattended wireless sensor networks, 1
 of over and under, 0
 the mean absolute error, 1
 generic methodology for, 0
 conceives, 0
-an snmp based, 1
+an snmp based, 0
 telephone network, 1
-an increasing trend in, 1
+an increasing trend in, 0
 therefore imperative to, 0
 conditions for exact, 0
 barycentric coordinates, 1
@@ -27,13 +27,13 @@ specialized program, 1
 attainable performance, 1
 increased packet, 0
 small quantity, 1
-the most highly, 1
+the most highly, 0
 compliant agent, 1
 including gene, 0
 aware mac protocol, 1
 multiuser environment, 1
-exactly same, 1
-repeated several times, 1
+exactly same, 0
+repeated several times, 0
 researchers and practitioners working, 0
 statistically correlated, 1
 autonomie, 1
@@ -69,10 +69,10 @@ convergence with respect to, 0
 the dominance based, 0
 the nonlinearity of, 0
 models with hidden variables, 0
-worthwhile to, 1
+worthwhile to, 0
 fault tolerant mutual exclusion, 1
-a model checking tool, 1
-consecutive versions, 1
+a model checking tool, 0
+consecutive versions, 0
 algorithms in solving, 0
 reliable numerical, 0
 methods in terms of accuracy and, 0
@@ -93,8 +93,8 @@ discriminant analysis for, 0
 vorolign, 1
 human designer, 1
 accessed as, 0
-an intelligent way, 1
+an intelligent way, 0
 achieve improvements, 1
 music production, 1
-the testing and test control notation, 1
+the testing and test control notation, 0
 structured content, 1
